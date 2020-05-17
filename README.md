@@ -3,7 +3,7 @@
 
 ----
 
-## scratch- scratch学习平台，scratch编程平台，scratch创作平台，scratch3，scratch教学平台，在线编程，编程社区，编程猫，核桃编程，少儿编程，STEAM教育，创客教育，Python编程平台 
+## Scratch学习平台，scratch3.0编程平台，scratch创作平台，scratch教学平台，手机编程分享平台，在线编程，编程社区，编程猫，核桃编程，少儿编程，STEAM教育，创客教育，Python编程平台
 
 
  > 获取代码请联系QQ：3105896723
